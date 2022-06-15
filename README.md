@@ -1,4 +1,4 @@
-# EACHydraHook
+# HydraHook
 
 Swaps ExAllocatePoolWithTag pointer to our own handler.
 

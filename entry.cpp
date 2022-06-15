@@ -9,6 +9,7 @@
 #include "utils.h"
 #include "eac.h"
 
+// https://www.unknowncheats.me/forum/anti-cheat-bypass/503052-easy-anti-cheat-kernel-packet-fucker.html
 auto DriverEntry( ) -> NTSTATUS
 {
 	/*
